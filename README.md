@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Methre Sai Nath
 
 ### 👨‍💻 About Me:
-Computer Science student at Lovely Professional University .
-Familiar with Python, C++, and Java.  
-Currently focused on Java and cloud technologies.  
-Always building and improving every day.
+Computer Science student at Lovely Professional University. Familiar with Python, C++, and Java. Currently focused on Java and cloud technologies. Always building and improving every day.
 
 ### 🌱 I'm currently learning:
 - Data Structures & Algorithms
@@ -13,7 +10,7 @@ Always building and improving every day.
 ### 🔭 I'm currently working on:
 - Programming (Java, C++)
 - Cloud Computing with AWS
-- 
+
 ### 📫 How to reach me:
 - Email: methresainath37@gmail.com
 - GitHub: @Methresainath
@@ -22,7 +19,7 @@ Always building and improving every day.
 
 ### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Methresainath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Methresainath) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:methresainath37@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__saaaiii___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/methresainath) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:methresainath37@gmail.com)
 
 ---
 
