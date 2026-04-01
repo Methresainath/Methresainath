@@ -1,28 +1,16 @@
 # 👋 Hi, I'm Methre Sai Nath
 
 ### 👨‍💻 About Me:
-I'm a Computer Science student passionate about coding, problem-solving, and building innovative solutions. I love working with Java, C++, and web technologies. Currently exploring AWS cloud computing and competitive programming.
+I'm a Computer Science student passionate about coding, problem-solving, and building innovative solutions.Currently exploring AWS cloud computing.
 
 ### 🌱 I'm currently learning:
 - Data Structures & Algorithms
 - AWS Cloud Computing
-- Web Development
 
 ### 🔭 I'm currently working on:
-- Competitive Programming (Java, C++)
-- Web Development Projects
+- rogramming (Java, C++)
 - Cloud Computing with AWS
-
-### 👯 I'm looking to collaborate on:
-- Open Source Projects
-- Web Development
-- Algorithm Solutions
-
-### 💬 Ask me about:
-- Java & C++
-- Data Structures
-- Web Development Basics
-
+- 
 ### 📫 How to reach me:
 - Email: methresainath37@gmail.com
 - GitHub: @Methresainath
