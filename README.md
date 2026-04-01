@@ -1,14 +1,17 @@
 # 👋 Hi, I'm Methre Sai Nath
 
 ### 👨‍💻 About Me:
-I'm a Computer Science student passionate about coding, problem-solving, and building innovative solutions.Currently exploring AWS cloud computing.
+Computer Science student at Lovely Professional University .
+Familiar with Python, C++, and Java.  
+Currently focused on Java and cloud technologies.  
+Always building and improving every day.
 
 ### 🌱 I'm currently learning:
 - Data Structures & Algorithms
 - AWS Cloud Computing
 
 ### 🔭 I'm currently working on:
-- rogramming (Java, C++)
+- Programming (Java, C++)
 - Cloud Computing with AWS
 - 
 ### 📫 How to reach me:
